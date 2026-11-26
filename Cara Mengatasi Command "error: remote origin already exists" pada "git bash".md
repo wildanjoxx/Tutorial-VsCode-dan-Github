@@ -4,7 +4,5 @@
 2.Jika sudah, ketik "git remote add origin nama URL https/ssh pada github"
 3.ketik "git push origin main"
 
-Semoga dengan tutor ini dapat membantu anda!
-Jangan Lupa Support WILDANHOO
-
-© Copyright By WildanHoo
+Semoga dengan cara ini dapat membantu anda.
+@danjoxx
