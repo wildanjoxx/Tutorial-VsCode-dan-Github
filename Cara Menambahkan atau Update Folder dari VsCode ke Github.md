@@ -8,7 +8,6 @@
 6.ketik "git remote add origin "masukkan nama URL https/ssh ( Di Github ) yg kalian pakai" // dalam terminal/git pada vscode //
 7.ketik "git push origin main"
 
-Semoga dengan tutor ini dapat membantu anda!
-Jangan Lupa Support WILDANHOO
-
-© Copyright By WildanHoo
+Semoga dengan cara ini dapat membantu anda.
+<br>
+@danjoxx
